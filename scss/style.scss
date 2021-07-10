@@ -1,0 +1,87 @@
+body{
+  
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#home-body{
+        background: url(../img/hero-bg.jpg) center top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed; 
+        min-height: 480px;  
+}
+.navbar{
+    background: rgba(135,80,156,.9);
+}
+.overlay {
+    background:  rgba(135,80,156,.9);
+    min-height: 480px;
+ }
+ .btn-hero{
+    background: #eb7d4b;
+    border-color: #c86a40;
+}
+
+#service{
+    background: url(../img/services-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.service-overlay{
+    background: rgba(23,194,164,.9);
+}
+#team-sec{
+    background: url(../img/team-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.team-body{
+    background: rgba(231,241,248,.9);
+}
+.fa{
+    background: #b8b4b4;
+}
+.fa:hover{
+    background: #000;
+}
+#skill-section{
+    background: url(../img/skill-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.skill-body{
+    background: rgba(255,255,255,.9);
+}
+h1,h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+hr{
+    width: 60px;
+    color: #000;
+}
+#testimonial-section{
+    background: url(../img/testimonial-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.test-body{
+    background: rgba(215,70,128,.9);
+}
+
+
+#skill-section{
+    background: url(../img/skill-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.skill-body{
+    background: rgba(255,255,255,.9);
+}
+
+
